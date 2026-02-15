@@ -17,7 +17,7 @@ A simple password generator built using HTML, CSS, and JavaScript.
 Open `index.html` in your browser.
 
 ## Live Demo
-[Click here to try the Password Generator](https://yourusername.github.io/password-generator/)
+[Click here to try the Password Generator]( https://ssnehatiwari21.github.io/Password-Generator/)
 
 ## Preview
 ![Password Generator Preview](screenshot.png)
